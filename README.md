@@ -6,7 +6,7 @@
 
 [![Clean Blog Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
+**[View Live Preview](https://baizy93.github.io/Portfolio.html)**
 
 ## Status
 
